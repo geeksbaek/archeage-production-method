@@ -1,0 +1,21 @@
+- name: 숙련공의 판금 투구
+  material:
+  - name: 수습공의 판금 투구
+    quantity: 1
+  - name: 달빛 아키움 조각
+    quantity: 4
+  - name: 철 주괴
+    quantity: 12
+  - name: 불투명한 연마제
+    quantity: 2
+    
+- name: 마력이 봉인된 명인의 판금 투구
+  material:
+  - name: 숙련공의 판금 투구
+    quantity: 1
+  - name: 달빛 아키움 결정
+    quantity: 6
+  - name: 강도 높은 주괴
+    quantity: 10
+  - name: 거친 입자의 연마제
+    quantity: 4
